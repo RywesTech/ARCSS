@@ -1,0 +1,18 @@
+{  
+   "1":{  
+      "2":"Emissions from the factory may be harmful to farms because of their close proximity.",
+      "3":"Factory emissions may damage the delicate ecosystem in the nearby forest."
+   },
+   "2":{  
+      "default":"Cows can generate a large amount of CO2 emissions. Along with the the resources necessary to sustain cows, their environmental impact in huge."
+   },
+   "3":{  
+
+   },
+   "4":{  
+      "default":"A volcano eruption can emit massive amounts of sulfur and CO2 into the atmosphere.",
+      "1":"Volcano may be dangerous to the Factory in an event of an eruption.",
+      "2":"Volcano may be dangerous to the Farm in an event of an eruption.",
+      "3":"Volcano may be dangerous to the Forest in an event of an eruption."
+   }
+}
